@@ -1,2 +1,2 @@
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-06 at 19 56 04](https://github.com/PrajaktaJ93/SwiftUIMyBudgetApp/assets/117655777/efd158a3-a07b-47e3-8db1-bf6fc7379e28)
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-06 at 19 56 12](https://github.com/PrajaktaJ93/SwiftUIMyBudgetApp/assets/117655777/b4405bc0-ab31-4f81-9189-d40b30b081b7)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-06 at 19 56 04](https://github.com/PrajaktaJ93/SwiftUIMyBudgetApp/assets/117655777/fad227b6-e3a9-40a9-8c86-94801b90a540)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-06 at 19 56 12](https://github.com/PrajaktaJ93/SwiftUIMyBudgetApp/assets/117655777/f940d60c-26ef-4c21-9922-c266f27c57c0)
