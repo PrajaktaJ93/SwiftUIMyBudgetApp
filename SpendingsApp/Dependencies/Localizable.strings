@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  SpendingsApp
+
+  Created by Prajakta Jadhav on 06/03/24.
+  
+*/
+"Hello_Name_Text" = "Hello, Prajakta";
+"Hello_Details" = "Here you can view your budget";
+"Transactions" = "Transactions";
+"View_All" = "View All";
+"£" = "£";
+"#" = "#";
+"Income" = "Income";
+"Spending" = "Spending";
+"My_Budget" = "My Budget";
+"Add_Income" = "Add Income";
+"Add_Spending" = "Add Spending";
+"Budget_Overview" = "Budget Overview";
+"My_Plan" = "My Plan";
+"All" = "All";
+
+
